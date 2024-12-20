@@ -1,0 +1,18 @@
+h1{
+    width: 60%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3rem;
+    margin: auto;
+}
+header{
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+}
+
+nav{
+    width: 40%;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
